@@ -1,3 +1,3 @@
 
 Link to site
-https://github.com/Jamzero100/TinDog.git
+ https://jamzero100.github.io/TinDog/
